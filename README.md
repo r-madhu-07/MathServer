@@ -101,7 +101,7 @@ Publish the website in the given URL.
 
 ## SERVER SIDE PROCESSING:
 
- ![alt text](<Screenshot 2025-10-24 142003-3.png>)
+ ![alt text](<Screenshot 2025-10-24 142003.png>)
 
 ## HOMEPAGE:
 ![alt text](<Screenshot 2025-10-24 141746.png>)
